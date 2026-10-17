@@ -74,7 +74,7 @@ Dietary preference or restriction: {dietary}
 Target meal type: {meal_type}
 
 Rules:
-- Suggest 2 or 3 creative, appetizing recipes.
+- Suggest 1 creative, appetizing recipes.
 - Use the user's available ingredients as the main ingredients.
 - You may assume salt, pepper, water, cooking oil,
   and basic flour or sugar are available.
